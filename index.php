@@ -39,7 +39,7 @@
     </form>
     <hr>
     <br><br>
-    <h2>Popisa automoblia</h2>
+    <h2>Popisa automoblia dodrada</h2>
 
     <?php if(!empty($teksts)): ?>
         <table border="1">
